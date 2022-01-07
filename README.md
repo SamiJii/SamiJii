@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamiJii
-- 👀 I’m interested in IoT
+- 👀 I’m interested in IoT & Home automation
 - 🌱 I’m currently learning Python
 <!---
 - 💞️ I’m looking to collaborate on ...
